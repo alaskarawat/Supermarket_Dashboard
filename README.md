@@ -21,7 +21,7 @@
 ## 📸 DASHBOARD PREVIEW
 
 ### 🛍️ Supermarket Sales Analysis Dashboard
-![Supermarket_Dashboard](supermarket_dashboard.jpg)
+![Supermarket_Dashboard](Supermarket_Dashboard.jpg)
 
 ---
 
